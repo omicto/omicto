@@ -1,7 +1,6 @@
 **Hola:)**
 
-I'm Sebastian, a guy from Chihuahua, Mexico (fyi the dog breed is called after the region and not the other way around!).
-I majored in CS and currently work as a web developer.
+I'm Sebastian
 
 Stuff I use and like:
 - Javascript
